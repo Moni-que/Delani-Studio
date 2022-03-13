@@ -52,3 +52,9 @@
     display: flex;
     justify-content: space-evenly;
 }
+#contacts{
+    text-align: center;
+}
+#last-part{
+    background:url("./images/c_image.jpg");
+}
