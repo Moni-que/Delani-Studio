@@ -74,3 +74,11 @@
     background: none;
     border: white solid 1px;
 }
+#button{
+    background-color: aqua;
+    width: 15%;
+    border-radius: 5px;
+    margin-left: 500px;
+    margin-top: 20px;
+    padding: 8px;
+}
