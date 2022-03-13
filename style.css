@@ -69,18 +69,19 @@
     border: white solid 1px;
 }
 #my-message{
-    margin-top: 20px;
-    padding-bottom: 150px;
-    padding-right: 700px;
+    margin-top: 50px;
+    margin-right: 100px;
     background: none;
     border: white solid 1px;
+    padding-bottom: 200px;
+    padding-right: 150px;
 }
 #button{
     background-color: aqua;
     width: 15%;
     border-radius: 5px;
-    margin-left: 500px;
-    margin-top: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
     padding: 8px;
 }
 .icons{
