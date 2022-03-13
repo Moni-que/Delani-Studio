@@ -48,3 +48,7 @@
 #images{
     padding: 30px;
 }
+#spacing{
+    display: flex;
+    justify-content: space-evenly;
+}
