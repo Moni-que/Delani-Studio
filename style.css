@@ -39,9 +39,3 @@
 #service{
     padding-top: 80px;
 }
-#doings{
-    display: flex;
-}
-#doing{
-    justify-content: space-around;
-}
