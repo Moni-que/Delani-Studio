@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.first{
+#first{
     background:url("./images/h_img.jpg");
     background-size: cover;
     background-position: center;
@@ -25,4 +25,17 @@
 }
 #about{
     padding-top: 50px;
+}
+#forth{
+    background:url("./images/s_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 3%;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+#service{
+    padding-top: 80px;
 }
