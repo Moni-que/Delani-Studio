@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
 
 #first{
     background:url("./images/h_img.jpg");
