@@ -7,7 +7,6 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
 }
-
 #first{
     background:url("./images/h_img.jpg");
     background-size: cover;
@@ -52,10 +51,6 @@ body{
 #images{
     padding: 30px;
 }
-#spacing{
-    display: flex;
-    justify-content: space-evenly;
-}
 #contacts{
     text-align: center;
 }
@@ -85,7 +80,7 @@ body{
 }
 #button{
     background-color: aqua;
-    width: 15%;
+    width: 20%;
     border-radius: 5px;
     margin-left: 100px;
     margin-top: 50px;
@@ -107,6 +102,10 @@ body{
 #ourplanning{
     display: none;
 }
+#spacing{
+    display: flex;
+    justify-content: space-evenly;
+}
 .hover2{
     top: 0;
     left: 0;
@@ -114,10 +113,9 @@ body{
     bottom: 0;
     background-color: rgba(0, 0, 0, 0.6);
     opacity: 0;
-
 }
 .hover2 h2{
-    border: 2px solid white;
+    border: 1px solid white;
     padding-top: 60px;
     padding-bottom: 60px;
     margin: 0px 15px;
