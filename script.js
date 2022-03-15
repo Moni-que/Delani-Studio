@@ -28,7 +28,7 @@ $(document).ready(function(){
     $("button#button").click(function(event){
         let name = $("input#name").val();
         let email = $("input#email").val();
-        let message = $("input#mymessage").val();
+        // let message = $("textarea#mymessage").val();
 
         if ($("input#name").val() && $("input#email").val()){
             alert("Hi " + name + ",Thank you for reaching out to us.One of us will contact you shortly.");
@@ -37,4 +37,9 @@ $(document).ready(function(){
             alert("Please fill the form");
         }
     });
+
+    $("#spacing").hover(function(){
+        $("#hover3").css("opacity", 1)},function(){
+            $("#hover3").css("opacity", 0)
+        });
 });
