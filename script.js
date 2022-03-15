@@ -30,7 +30,7 @@ $(document).ready(function(){
         let email = $("input#email").val();
         let message = $("textarea#mymessage").val();
 
-        if ($("input#name").val() && $("input#email").val()){
+        if ($("input#name").val() && $("input#email").val() && $("textarea#mymessage").val()){
             alert("Hi " + name + ",Thank you for reaching out to us.One of us will contact you shortly.");
         }
         else {
