@@ -1,6 +1,11 @@
 # DELANISTUDIO
 
 ##### By Monicah Maina
+
+### Screenshot of the Application
+
+![Screenshot from 2022-05-09 05-50-48](https://user-images.githubusercontent.com/93192319/167332478-6c7fcc36-1ecf-4d79-9744-bd7a855937e8.png)
+
 ### It is an independent project to test my JavaScript understanding.
 
 ## Table of Content
